@@ -1,6 +1,8 @@
 # CF-States
 ColdFusion UDF for the Automatic Generation of a Drop List of US States.
 
+Tested on ColdFusion 8-10, Railo 4
+
 # Usage
 Easy Usage: #SelectState()# - That is it.
 
